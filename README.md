@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Haseeya Farwin
-🎓 Final-year **BICT (Hons)** student at **Rajarata University of Sri Lanka** <br>💻 An aspiring **software engineer** passionate about **software development** <br>🔥 I love building intuitive and responsive user interfaces using **HTML 🏗️, CSS 🎨, JavaScript ⚡, and React.js ⚛️** <br>🔍 Always eager to **learn new technologies** and improve my coding skills <br>🛠️ Currently exploring **modern web frameworks** and **performance optimization techniques** <br>
+🎓 Final-year **BICT (Hons)** student at **Rajarata University of Sri Lanka** <br>💻 An aspiring **software engineer** passionate about **AI & software development** <br>🔥 I love building intuitive and responsive user interfaces using **HTML 🏗️, CSS 🎨, JavaScript ⚡, and React.js ⚛️** <br>🔍 Always eager to **learn new technologies** and improve my coding skills <br>🛠️ Currently exploring **modern web frameworks** and **performance optimization techniques** <br>
 <br>💡 Skills <br>🌐 **Frontend:** HTML, CSS, JavaScript, React.js<br>🗄️ **Database:** MySQL, MongoDB<br>🛠️ **Tools & Platforms:** Git, GitHub, VS Code
 
 📫 Connect with Me:<br>💼 [LinkedIn](https://www.linkedin.com/in/haseeya-farwin-23a247343) <br>✉️ [Email Me](mailto:haseeyaf@gmail.com)
